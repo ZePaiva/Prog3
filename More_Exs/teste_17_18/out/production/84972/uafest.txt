@@ -1,0 +1,11 @@
+FoodSpace;Universidade de Aveiro
+1;10;OPipo
+1;11;Maresia
+1;12;BarFresco
+2;20;KatieDosBifes;Prego;Bifana;Panado
+2;21;ManuelDosOssos;Costeleta;Perninha
+2;22;AliceDasMaravilhas;Douradas;Nata;Mousse
+3;20171219:17:00
+3;20171219:17:00
+3;20171219:17:01
+3;20171219:17:01

@@ -1,0 +1,30 @@
+
+Alínea 1) ----------------------------------
+
+Bebida SoTinto[teorAlc 13.5]
+Bebida SoSumo[teorAlc 0.0]
+Bebida SoFino[teorAlc 6.3]
+
+Produtos de BoasPingas: null
+Produtos de DeLeitão: [Sandocha, PicaPica]
+
+Feira Feirada
+Tendas:
+[Taberna [bebidas=Bebida CristalDaRia[teorAlc 0.0], Bebida Laranjada[teorAlc 0.0], Bebida IPA[teorAlc 6.5]], toString()=Tenda[num=100, nome=Malandra]], Tasquinha [menu=Sandocha, PicaPica], toString()=Tenda[num=201, nome=DeLeitão]], Tasquinha [menu=Passarinho, Amburguere], toString()=Tenda[num=202, nome=Franganito]], Taberna [bebidas=Bebida SoTinto[teorAlc 13.5], Bebida SoSumo[teorAlc 0.0], Bebida SoFino[teorAlc 6.3]], toString()=Tenda[num=102, nome=BoasPingas]]]
+Visitantes:
+[Visitante	[num=6, entrada=20171219:15:30], Visitante	[num=7, entrada=20171219:15:30], Visitante	[num=8, entrada=20171219:15:31], Visitante	[num=9, entrada=20171219:15:31], Visitante	[num=10, entrada=20171219:15:31]]
+
+[Bebida IPA[teorAlc 6.5], Bebida SoFino[teorAlc 6.3]]
+
+Alínea 2) ----------------------------------
+
+Feira FoodSpace
+Tendas:
+[Taberna [bebidas=], toString()=Tenda[num=12, nome=BarFresco]], Tasquinha [menu=Douradas, Nata, Mousse], toString()=Tenda[num=22, nome=AliceDasMaravilhas]], Tasquinha [menu=Costeleta, Perninha], toString()=Tenda[num=21, nome=ManuelDosOssos]], Taberna [bebidas=], toString()=Tenda[num=10, nome=OPipo]], Tasquinha [menu=Prego, Bifana, Panado], toString()=Tenda[num=20, nome=KatieDosBifes]], Taberna [bebidas=], toString()=Tenda[num=11, nome=Maresia]]]
+Visitantes:
+[Visitante	[num=11, entrada=20171219:17:00], Visitante	[num=12, entrada=20171219:17:00], Visitante	[num=13, entrada=20171219:17:01], Visitante	[num=14, entrada=20171219:17:01]]
+
+-- Outras informações --
+ Outras informações --
+3 Tasquinhas
+3 Tabernas
